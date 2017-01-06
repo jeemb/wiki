@@ -13,3 +13,13 @@
 .darkgreen {
   background-color: #cef2e0;
 }
+
+img.cheese {
+  float:left;
+  width: 320px;
+  height: 230px;
+}
+
+#cheesepic {
+  height: 350px
+}
